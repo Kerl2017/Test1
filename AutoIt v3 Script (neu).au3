@@ -4,7 +4,7 @@
  Author:         myName
 
  Script Function:
-	Template AutoIt script.
+	Template AutoIt script
 
 #ce ----------------------------------------------------------------------------
 
