@@ -1,0 +1,1 @@
+c:\users\rolm\documents\visual studio 2013\Projects\ImageAnalyse\ImageAnalyse\bin\Debug\ImageAnalyse.exe.config
