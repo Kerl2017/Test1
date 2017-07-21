@@ -1,0 +1,21 @@
+c:\users\rolm\documents\visual studio 2013\Projects\PixelControl\PixelControl\bin\Debug\PixelControl.exe.config
+c:\users\rolm\documents\visual studio 2013\Projects\PixelControl\PixelControl\bin\Debug\PixelControl.exe
+c:\users\rolm\documents\visual studio 2013\Projects\PixelControl\PixelControl\bin\Debug\PixelControl.pdb
+c:\users\rolm\documents\visual studio 2013\Projects\PixelControl\PixelControl\obj\Debug\PixelControl.csprojResolveAssemblyReference.cache
+c:\users\rolm\documents\visual studio 2013\Projects\PixelControl\PixelControl\obj\Debug\PixelControl.Form1.resources
+c:\users\rolm\documents\visual studio 2013\Projects\PixelControl\PixelControl\obj\Debug\PixelControl.Properties.Resources.resources
+c:\users\rolm\documents\visual studio 2013\Projects\PixelControl\PixelControl\obj\Debug\PixelControl.csproj.GenerateResource.Cache
+c:\users\rolm\documents\visual studio 2013\Projects\PixelControl\PixelControl\obj\Debug\PixelControl.exe
+c:\users\rolm\documents\visual studio 2013\Projects\PixelControl\PixelControl\obj\Debug\PixelControl.pdb
+E:\Projekt_17.07.17\PixelControl\PixelControl\bin\Debug\PixelControl.exe.config
+E:\Projekt_17.07.17\PixelControl\PixelControl\obj\Debug\PixelControl.exe
+E:\Projekt_17.07.17\PixelControl\PixelControl\obj\Debug\PixelControl.pdb
+E:\Projekt_17.07.17\PixelControl\PixelControl\bin\Debug\PixelControl.exe
+E:\Projekt_17.07.17\PixelControl\PixelControl\bin\Debug\PixelControl.pdb
+E:\Projekt_17.07.17\PixelControl\PixelControl\obj\Debug\PixelControl.csprojResolveAssemblyReference.cache
+E:\Projekt_17.07.17\PixelControl\PixelControl\obj\Debug\PixelControl.Form1.resources
+E:\Projekt_17.07.17\PixelControl\PixelControl\obj\Debug\PixelControl.Properties.Resources.resources
+E:\Projekt_17.07.17\PixelControl\PixelControl\obj\Debug\PixelControl.csproj.GenerateResource.Cache
+G:\Projekt_17.07.17\PixelControl\PixelControl\bin\Debug\PixelControl.exe.config
+G:\Projekt_17.07.17\PixelControl\PixelControl\obj\Debug\PixelControl.exe
+G:\Projekt_17.07.17\PixelControl\PixelControl\obj\Debug\PixelControl.pdb
